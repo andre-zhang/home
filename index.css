@@ -1,0 +1,206 @@
+body
+{
+	margin:3%;
+	background-color: black;
+}
+
+h1
+{
+	text-align : center;
+	font-size: 60pt;
+	line-height: 250pt;
+	font-family:"Comic Sans MS", cursive, sans-serif;
+	text-decoration: underline;
+	background-color: white;
+	color: black;
+}
+/* By making the line height 200, I can create a "box" for the text, helping it to stand out*/
+
+li
+{
+	list-style-type: none;
+	overflow: hidden;
+	background-color: dimgrey;
+	margin-right: 3%
+}
+
+li
+{
+	text-align: center;
+}
+
+li a
+{
+	display: block;
+	color: white;
+	text-align: center;
+	text-decoration: none;
+}
+/* If you don't do this, then it will underline the navigation bar.*/
+
+li a:hover 
+{
+	background-color:orange;
+}
+
+li
+{
+	text-align: center;
+	font-size: 25pt;
+	line-height:55pt;
+	font-family: Tahoma, Geneva, sans-serif;
+}
+/* It doesn't work if you group the three CSS rules shown above into one*/
+
+#intro
+{
+	text-align : center;
+	font-size: 18pt;
+	line-height: 25pt;
+	font-family:Tahoma, Geneva, sans-serif;
+	background-color: dodgerblue;
+	color: white;
+	padding: 2%;
+}
+
+#developt
+{
+	text-align:center;
+	font-size: 17pt;
+	line-height:35pt;
+	color:white;
+	background-color: green;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-weight:bold;
+}
+	
+#develop
+{
+	text-align: center;
+	font-size: 12pt;
+	line-height: 15pt;
+	color: lime;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-weight:bold;
+}
+
+#transportt
+{
+	text-align:center;
+	font-size: 17pt;
+	line-height:35pt;
+	color:white;
+	background-color: purple;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-weight:bold;
+}
+
+#transport
+{
+	text-align:center;
+	font-size: 12pt;
+	line-height:15pt;
+	color:violet;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-weight:bold;
+}
+
+#energyt
+{
+	text-align:center;
+	font-size: 17pt;
+	line-height:35pt;
+	color:white;
+	background-color:red;
+	font-family:Tahoma, Geneva, sans-serif;
+	font-weight:bold;
+}
+
+#energy
+{
+	text-align:center;
+	font-size: 12pt;
+	line-height:15pt;
+	color:red;
+	font-family:Tahoma, Geneva, sans-serif;
+	font-weight:bold;
+}
+
+#otherwayst
+{
+	text-align:center;
+	font-size: 17pt;
+	line-height:35pt;
+	color:white;
+	background-color:peru;
+	font-family:Tahoma, Geneva, sans-serif;
+	font-weight:bold;
+}
+
+#otherways
+{
+	text-align:center;
+	font-size: 12pt;
+	line-height:15pt;
+	color:coral;
+	font-family:Tahoma, Geneva, sans-serif;
+	font-weight:bold;
+}
+
+#tabletitle
+{
+	text-align:center;
+	font-size: 15pt;
+	line-height:35pt;
+	color:black;
+	background-color: white;
+	font-family:Tahoma, Geneva, sans-serif;
+	font-weight:bold; 
+}
+
+table
+{
+	width: 100%;
+	text-align: center;
+	color: white;
+	font-size:12pt;
+}
+
+#tableheader
+{
+	font-size: 20pt;
+	font-weight: bold;
+	color: white;
+}
+
+#line
+{
+	font-size: 25pt;
+	font-weight:bold;
+	color: white;
+}
+
+#UNlink
+{
+	text-align: justify;
+	font-size:17pt;
+	line-height:18pt;
+	color:cyan;
+	font-family: Tahoma, Geneva, sans-serif;
+}
+
+img
+{
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+}
+/* This centers the images*/	
+	
+#topreturn
+{
+	color:white;
+}
+
+<a href="http://validator.w3.org/check?uri=https://https://andre-zhang.github.io/home/"> </a>				
+
